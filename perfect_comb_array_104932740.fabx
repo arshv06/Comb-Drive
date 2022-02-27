@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Saved fabx file format with IntelliSuite IntelliFab-->
+<FileVersion docversion="8.7.0">
+<ParameterMap size="46">
+<Parameter0 Name="t_film" SystemDefinded="0" SiName="nm" SiMultiply="1" SiShift="0" EuName="mil" EuMultiply="3.937e-006" EuShift="0" UdefName="nm" UdefMultiply="1" UdefShift="0" Size="0" Pow0="1" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter1 Name="diameter" SystemDefinded="0" SiName="mm" SiMultiply="1" SiShift="0" EuName="inch" EuMultiply="0.0393701" EuShift="0" UdefName="mm" UdefMultiply="1" UdefShift="0" Size="0.001" Pow0="1" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter2 Name="flat_dir" SystemDefinded="0" SiName="Vector" SiMultiply="1" SiShift="0" EuName="Vector" EuMultiply="1" EuShift="0" UdefName="Vector" UdefMultiply="1" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter3 Name="dope_conc" SystemDefinded="0" SiName="/cm3" SiMultiply="1" SiShift="0" EuName="/inch3" EuMultiply="16.38" EuShift="0" UdefName="/cm3" UdefMultiply="1" UdefShift="0" Size="1e+006" Pow0="-3" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter4 Name="resist" SystemDefinded="0" SiName="Ohm-cm" SiMultiply="1" SiShift="0" EuName="Ohm-in" EuMultiply="0.393701" EuShift="0" UdefName="Ohm-cm" UdefMultiply="1" UdefShift="0" Size="0.01" Pow0="3" Pow1="1" Pow2="-1" Pow3="0" Pow4="0"/>
+<Parameter5 Name="Transparency" SystemDefinded="0" SiName="#" SiMultiply="0" SiShift="1" EuName="0" EuMultiply="1" EuShift="0" UdefName="0" UdefMultiply="0" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter6 Name="T_dep" SystemDefinded="0" SiName="deg_C" SiMultiply="1" SiShift="0" EuName="deg_F" EuMultiply="1.8" EuShift="32" UdefName="K" UdefMultiply="1" UdefShift="273" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter7 Name="P_dep" SystemDefinded="0" SiName="Pa" SiMultiply="1" SiShift="0" EuName="mPsi" EuMultiply="0.145" EuShift="0" UdefName="mTorr" UdefMultiply="7.50064" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter8 Name="T_oper" SystemDefinded="0" SiName="deg_C" SiMultiply="1" SiShift="0" EuName="deg_F" EuMultiply="1.8" EuShift="32" UdefName="K" UdefMultiply="1" UdefShift="273" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter9 Name="Rf_Pow" SystemDefinded="0" SiName="W" SiMultiply="1" SiShift="0" EuName="BTU/hr" EuMultiply="0.293" EuShift="0" UdefName="kW" UdefMultiply="0.001" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter10 Name="Rf_Freq" SystemDefinded="0" SiName="MHz" SiMultiply="1" SiShift="0" EuName="MHz" EuMultiply="1" EuShift="0" UdefName="kHz" UdefMultiply="1000" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter11 Name="tot_fl" SystemDefinded="0" SiName="sccm" SiMultiply="1" SiShift="0" EuName="sccm" EuMultiply="1" EuShift="0" UdefName="slm" UdefMultiply="0.001" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter12 Name="Arpp" SystemDefinded="0" SiName="part.pr" SiMultiply="1" SiShift="0" EuName="part.pr" EuMultiply="1" EuShift="0" UdefName="%" UdefMultiply="100" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter13 Name="NH3pp" SystemDefinded="0" SiName="part.pr" SiMultiply="1" SiShift="0" EuName="part.pr" EuMultiply="1" EuShift="0" UdefName="%" UdefMultiply="100" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter14 Name="SiH4pp" SystemDefinded="0" SiName="part.pr" SiMultiply="1" SiShift="0" EuName="part.pr" EuMultiply="1" EuShift="0" UdefName="%" UdefMultiply="100" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter15 Name="time_dep" SystemDefinded="0" SiName="min" SiMultiply="1" SiShift="0" EuName="min" EuMultiply="1" EuShift="0" UdefName="sec" UdefMultiply="60" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter16 Name="T_anne" SystemDefinded="0" SiName="deg_C" SiMultiply="1" SiShift="0" EuName="deg_F" EuMultiply="1.8" EuShift="32" UdefName="K" UdefMultiply="1" UdefShift="273" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="1"/>
+<Parameter17 Name="time_an" SystemDefinded="0" SiName="min" SiMultiply="1" SiShift="0" EuName="min" EuMultiply="1" EuShift="0" UdefName="min" UdefMultiply="1" UdefShift="0" Size="60" Pow0="0" Pow1="0" Pow2="1" Pow3="0" Pow4="0"/>
+<Parameter18 Name="Speed" SystemDefinded="0" SiName="rpm" SiMultiply="1" SiShift="0" EuName="rpm" EuMultiply="1" EuShift="0" UdefName="rpm" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter19 Name="time_spin" SystemDefinded="0" SiName="sec" SiMultiply="1" SiShift="0" EuName="sec" EuMultiply="1" EuShift="0" UdefName="sec" UdefMultiply="1" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="1" Pow3="0" Pow4="0"/>
+<Parameter20 Name="T_soft" SystemDefinded="0" SiName="deg_C" SiMultiply="1" SiShift="0" EuName="deg_F" EuMultiply="1.8" EuShift="32" UdefName="K" UdefMultiply="1" UdefShift="273" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter21 Name="time_soft" SystemDefinded="0" SiName="sec" SiMultiply="1" SiShift="0" EuName="sec" EuMultiply="1" EuShift="0" UdefName="sec" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter22 Name="lambda" SystemDefinded="0" SiName="nm" SiMultiply="1" SiShift="0" EuName="mil" EuMultiply="3.937e-006" EuShift="0" UdefName="nm" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter23 Name="mask_no" SystemDefinded="0" SiName="#" SiMultiply="1" SiShift="0" EuName="#" EuMultiply="1" EuShift="0" UdefName="#" UdefMultiply="1" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter24 Name="Power" SystemDefinded="0" SiName="W" SiMultiply="1" SiShift="0" EuName="BTU/hr" EuMultiply="0.293" EuShift="0" UdefName="kW" UdefMultiply="0.001" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter25 Name="time_exp" SystemDefinded="0" SiName="sec" SiMultiply="1" SiShift="0" EuName="sec" EuMultiply="1" EuShift="0" UdefName="sec" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter26 Name="H2PO4_conc" SystemDefinded="0" SiName="%" SiMultiply="1" SiShift="0" EuName="%" EuMultiply="1" EuShift="0" UdefName="%" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter27 Name="C2H4O2_cnc" SystemDefinded="0" SiName="%" SiMultiply="1" SiShift="0" EuName="%" EuMultiply="1" EuShift="0" UdefName="%" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter28 Name="HNO3_conc" SystemDefinded="0" SiName="%" SiMultiply="1" SiShift="0" EuName="%" EuMultiply="1" EuShift="0" UdefName="%" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter29 Name="time_etch" SystemDefinded="0" SiName="min" SiMultiply="1" SiShift="0" EuName="min" EuMultiply="1" EuShift="0" UdefName="sec" UdefMultiply="60" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter30 Name="T_etch" SystemDefinded="0" SiName="deg_C" SiMultiply="1" SiShift="0" EuName="deg_F" EuMultiply="1.8" EuShift="32" UdefName="K" UdefMultiply="1" UdefShift="273" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter31 Name="P_base" SystemDefinded="0" SiName="Pa" SiMultiply="1" SiShift="0" EuName="mPsi" EuMultiply="0.145" EuShift="0" UdefName="mTorr" UdefMultiply="7.50064" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter32 Name="gap_spacing" SystemDefinded="0" SiName="0" SiMultiply="0" SiShift="1" EuName="0" EuMultiply="1" EuShift="0" UdefName="0" UdefMultiply="0" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter33 Name="CHF3" SystemDefinded="0" SiName="0" SiMultiply="0" SiShift="1" EuName="0" EuMultiply="1" EuShift="0" UdefName="0" UdefMultiply="0" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter34 Name="CF4" SystemDefinded="0" SiName="sccm" SiMultiply="1" SiShift="0" EuName="sccm" EuMultiply="1" EuShift="0" UdefName="sccm" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter35 Name="He" SystemDefinded="0" SiName="0" SiMultiply="0" SiShift="1" EuName="0" EuMultiply="1" EuShift="0" UdefName="0" UdefMultiply="0" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter36 Name="P_vac" SystemDefinded="0" SiName="mTorr" SiMultiply="1" SiShift="0" EuName="mTorr" EuMultiply="1" EuShift="0" UdefName="uTorr" UdefMultiply="1000" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter37 Name="etch_sp" SystemDefinded="0" SiName="nm/min" SiMultiply="1" SiShift="0" EuName="mil/min" EuMultiply="4e-006" EuShift="0" UdefName="nm/min" UdefMultiply="1" UdefShift="0" Size="1.6667e-011" Pow0="1" Pow1="0" Pow2="-1" Pow3="0" Pow4="0"/>
+<Parameter38 Name="Std_IonAngle" SystemDefinded="0" SiName="degree" SiMultiply="1" SiShift="0" EuName="degree" EuMultiply="1" EuShift="0" UdefName="degree" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter39 Name="orientation_h" SystemDefinded="0" SiName="Vector" SiMultiply="1" SiShift="0" EuName="Vector" EuMultiply="1" EuShift="0" UdefName="Vector" UdefMultiply="1" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter40 Name="orientation_k" SystemDefinded="0" SiName="Vector" SiMultiply="1" SiShift="0" EuName="Vector" EuMultiply="1" EuShift="0" UdefName="Vector" UdefMultiply="1" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter41 Name="orientation_l" SystemDefinded="0" SiName="Vector" SiMultiply="1" SiShift="0" EuName="Vector" EuMultiply="1" EuShift="0" UdefName="Vector" UdefMultiply="1" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter42 Name="flat_dir_h" SystemDefinded="0" SiName="Vector" SiMultiply="1" SiShift="0" EuName="Vector" EuMultiply="1" EuShift="0" UdefName="Vector" UdefMultiply="1" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter43 Name="flat_dir_k" SystemDefinded="0" SiName="Vector" SiMultiply="1" SiShift="0" EuName="Vector" EuMultiply="1" EuShift="0" UdefName="Vector" UdefMultiply="1" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter44 Name="flat_dir_l" SystemDefinded="0" SiName="Vector" SiMultiply="1" SiShift="0" EuName="Vector" EuMultiply="1" EuShift="0" UdefName="Vector" UdefMultiply="1" UdefShift="0" Size="1" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Parameter45 Name="Resistivity" SystemDefinded="0" SiName="ohm.cm" SiMultiply="1" SiShift="0" EuName="ohm.inch" EuMultiply="0.393701" EuShift="0" UdefName="ohm.cm" UdefMultiply="1" UdefShift="0" Size="0.01" Pow0="3" Pow1="1" Pow2="-1" Pow3="0" Pow4="0"/>
+</ParameterMap>
+<PropertyMap size="8">
+<Property0 Name="Stdev_thickness" SystemDefinded="0" SiName="nm" SiMultiply="0" SiShift="1" EuName="0" EuMultiply="1" EuShift="0" UdefName="0" UdefMultiply="0" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Property1 Name="t_film" SystemDefinded="0" SiName="nm" SiMultiply="1" SiShift="0" EuName="mil" EuMultiply="3.937e-006" EuShift="0" UdefName="nm" UdefMultiply="1" UdefShift="0" Size="1e-009" Pow0="1" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Property2 Name="Ratio_ST" SystemDefinded="0" SiName="#" SiMultiply="1" SiShift="0" EuName="#" EuMultiply="1" EuShift="0" UdefName="#" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Property3 Name="consumed_Si_Ratio" SystemDefinded="0" SiName="ratio" SiMultiply="1" SiShift="0" EuName="ratio" EuMultiply="1" EuShift="0" UdefName="ratio" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Property4 Name="dose" SystemDefinded="0" SiName="J" SiMultiply="1" SiShift="0" EuName="J" EuMultiply="1" EuShift="0" UdefName="J" UdefMultiply="1" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Property5 Name="t_etch" SystemDefinded="0" SiName="nm" SiMultiply="1" SiShift="0" EuName="mil" EuMultiply="3.937e-006" EuShift="0" UdefName="nm" UdefMultiply="1" UdefShift="0" Size="1e-009" Pow0="1" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Property6 Name="sidewall_angle" SystemDefinded="0" SiName="degree" SiMultiply="0" SiShift="1" EuName="0" EuMultiply="1" EuShift="0" UdefName="0" UdefMultiply="0" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+<Property7 Name="mask_undercut" SystemDefinded="0" SiName="nm" SiMultiply="0" SiShift="1" EuName="0" EuMultiply="1" EuShift="0" UdefName="0" UdefMultiply="0" UdefShift="0" Size="0" Pow0="0" Pow1="0" Pow2="0" Pow3="0" Pow4="0"/>
+</PropertyMap>
+<ProcessInfo size="15" records="15">
+<records0 children="0" Name="Definition" Omit="0" Visualize="1" Expand="0">
+<ProcessStep1 ProcessStep="1" Operation="Definition" Material="Si" Technology="Czochralski" TechnologyID="Generic" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="25" Description="" Visualize="1" Omit="0" MatInfo="1" MaterialColor="0x777777" MatDB="MemDB\Si_Czochralski_Generic.mat">
+<Parameter size="10">
+<Parameter0 MapID="1" CurrentValue="100" DefaultValue="100"/>
+<Parameter1 MapID="39" CurrentValue="1" DefaultValue="1"/>
+<Parameter2 MapID="40" CurrentValue="0" DefaultValue="0"/>
+<Parameter3 MapID="41" CurrentValue="0" DefaultValue="0"/>
+<Parameter4 MapID="42" CurrentValue="1" DefaultValue="1"/>
+<Parameter5 MapID="43" CurrentValue="1" DefaultValue="0"/>
+<Parameter6 MapID="44" CurrentValue="0" DefaultValue="0"/>
+<Parameter7 MapID="3" CurrentValue="5e+15" DefaultValue="5e+15"/>
+<Parameter8 MapID="45" CurrentValue="0.5" DefaultValue="0.5"/>
+<Parameter9 MapID="5" CurrentValue="255" DefaultValue="255"/>
+</Parameter>
+<Property size="2">
+<Property0 MapID="1" CurrentValue="5000" DefaultValue="50000"/>
+<Property1 MapID="0" CurrentValue="0" DefaultValue="0"/>
+</Property>
+<MaterialInfo Description="Si:Czochralski:Generic">
+<Density Value="2.328">0</Density>
+<Elastic IsotropicYoung="190" IsotropicPoisson="0.278">0</Elastic>
+<Stress Constant="0">0</Stress>
+<ThermalExp Constant="32">0</ThermalExp>
+<ThermalCond Constant="1.57">0</ThermalCond>
+<SpecHeat Value="0.42">0</SpecHeat>
+<Dielectric Isotropic="1">0</Dielectric>
+<Resistivity Constant="2.3">0</Resistivity>
+<Pzr>0</Pzr>
+<Pzt>0</Pzt>
+<EMag Value="0 0 0 0 0">0</EMag>
+<Orient>0</Orient>
+<RayleighDamp RayeighMassDamp="0" RayeighMassStiff="0">0</RayleighDamp>
+<Seebeck Constant="1">0</Seebeck>
+</MaterialInfo>
+<ProcessCorner>
+<TypeMask MatUpLim="0" MatLowLim="0" MatAutoCalc="0" MatSigmaLim="0" StressMean="0" StressStDev="0" StressUpLim="0" StressLowLim="0" StressAutoCalc="0">0</TypeMask>
+</ProcessCorner>
+</ProcessStep1>
+</records0>
+<records1 children="0" Name="Deposition" Omit="0" Visualize="1" Expand="0">
+<ProcessStep2 ProcessStep="2" Operation="Deposition" Material="SiO2" Technology="Thermal" TechnologyID="Wet" ProcessType="0" SideFlag="2" DoubleSideFlag="0" Tag="21" Description="" Visualize="1" Omit="0" MatInfo="1" MaterialColor="0xffcccc" MatDB="MemDB\SiO2_Thermal_Wet.mat" ProcessOption="conform">
+<Parameter size="4">
+<Parameter0 MapID="6" CurrentValue="960" DefaultValue="960"/>
+<Parameter1 MapID="7" CurrentValue="101325" DefaultValue="101325"/>
+<Parameter2 MapID="8" CurrentValue="20" DefaultValue="20"/>
+<Parameter3 MapID="5" CurrentValue="220" DefaultValue="220"/>
+</Parameter>
+<Property size="4">
+<Property0 MapID="1" CurrentValue="685.000" DefaultValue="600"/>
+<Property1 MapID="2" CurrentValue="1" DefaultValue="1"/>
+<Property2 MapID="0" CurrentValue="0" DefaultValue="0"/>
+<Property3 MapID="3" CurrentValue="0.46" DefaultValue="0.46"/>
+</Property>
+<MaterialInfo Description="SiO2:Thermal:Wet">
+<Density Value="2.3">0</Density>
+<Elastic IsotropicYoung="57" IsotropicPoisson="0.278">0</Elastic>
+<Stress Constant="0">0</Stress>
+<ThermalExp Constant="7">0</ThermalExp>
+<ThermalCond Constant="1.5">0</ThermalCond>
+<SpecHeat Value="0.42">0</SpecHeat>
+<Dielectric Isotropic="1">0</Dielectric>
+<Resistivity Constant="1">0</Resistivity>
+<Pzr>0</Pzr>
+<Pzt>0</Pzt>
+<EMag Value="1 1 0 0 0">0</EMag>
+<Orient>0</Orient>
+<RayleighDamp RayeighMassDamp="0" RayeighMassStiff="0">0</RayleighDamp>
+<Seebeck Constant="0">0</Seebeck>
+</MaterialInfo>
+<ProcessCorner>
+<TypeMask MatUpLim="600" MatLowLim="600" MatAutoCalc="0" MatSigmaLim="0" StressMean="0" StressStDev="0" StressUpLim="0" StressLowLim="0" StressAutoCalc="0">33</TypeMask>
+</ProcessCorner>
+</ProcessStep2>
+</records1>
+<records2 children="0" Name="Deposition" Omit="0" Visualize="1" Expand="0">
+<ProcessStep3 ProcessStep="3" Operation="Deposition" Material="Si3N4" Technology="PECVD" TechnologyID="Ar" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="21" Description="" Visualize="1" Omit="0" MatInfo="1" MaterialColor="0x762dd0" MatDB="MemDB\Si3N4_PECVD_Ar.mat" ProcessOption="conform">
+<Parameter size="9">
+<Parameter0 MapID="6" CurrentValue="275" DefaultValue="275"/>
+<Parameter1 MapID="7" CurrentValue="127" DefaultValue="127"/>
+<Parameter2 MapID="9" CurrentValue="250" DefaultValue="250"/>
+<Parameter3 MapID="10" CurrentValue="13.56" DefaultValue="13.56"/>
+<Parameter4 MapID="11" CurrentValue="1500" DefaultValue="1500"/>
+<Parameter5 MapID="12" CurrentValue="0.959" DefaultValue="0.959"/>
+<Parameter6 MapID="13" CurrentValue="0.024" DefaultValue="0.024"/>
+<Parameter7 MapID="14" CurrentValue="0.017" DefaultValue="0.017"/>
+<Parameter8 MapID="5" CurrentValue="194" DefaultValue="194"/>
+</Parameter>
+<Property size="3">
+<Property0 MapID="1" CurrentValue="1000.000" DefaultValue="2000"/>
+<Property1 MapID="2" CurrentValue="1" DefaultValue="1"/>
+<Property2 MapID="0" CurrentValue="0" DefaultValue="0"/>
+</Property>
+<MaterialInfo Description="Si3N4:PECVD:Ar">
+<Density Value="2.55">0</Density>
+<Elastic IsotropicYoung="300" IsotropicPoisson="0.27">0</Elastic>
+<Stress Constant="0">0</Stress>
+<ThermalExp Constant="16">0</ThermalExp>
+<ThermalCond Constant="1.5">0</ThermalCond>
+<SpecHeat Value="0.42">0</SpecHeat>
+<Dielectric Isotropic="1">0</Dielectric>
+<Resistivity Constant="1">0</Resistivity>
+<Pzr>0</Pzr>
+<Pzt>0</Pzt>
+<EMag Value="1 1 0 0 0">0</EMag>
+<Orient>0</Orient>
+<RayleighDamp RayeighMassDamp="0" RayeighMassStiff="0">0</RayleighDamp>
+<Seebeck Constant="0">0</Seebeck>
+</MaterialInfo>
+<ProcessCorner>
+<TypeMask MatUpLim="2000" MatLowLim="2000" MatAutoCalc="0" MatSigmaLim="0" StressMean="0" StressStDev="0" StressUpLim="0" StressLowLim="0" StressAutoCalc="0">33</TypeMask>
+</ProcessCorner>
+</ProcessStep3>
+</records2>
+<records3 children="0" Name="Deposition" Omit="0" Visualize="1" Expand="0">
+<ProcessStep4 ProcessStep="4" Operation="Deposition" Material="PolySi" Technology="LPCVD" TechnologyID="SiH4" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="21" Description="" Visualize="1" Omit="0" MatInfo="1" MaterialColor="0xff0066" MatDB="MemDB\PolySi_LPCVD_General.mat" ProcessOption="conform">
+<Parameter size="6">
+<Parameter0 MapID="6" CurrentValue="630" DefaultValue="630"/>
+<Parameter1 MapID="7" CurrentValue="53" DefaultValue="53"/>
+<Parameter2 MapID="15" CurrentValue="15" DefaultValue="15"/>
+<Parameter3 MapID="16" CurrentValue="1100" DefaultValue="1100"/>
+<Parameter4 MapID="17" CurrentValue="0" DefaultValue="0"/>
+<Parameter5 MapID="5" CurrentValue="255" DefaultValue="255"/>
+</Parameter>
+<Property size="3">
+<Property0 MapID="1" CurrentValue="4000.000" DefaultValue="1300"/>
+<Property1 MapID="2" CurrentValue="1" DefaultValue="1"/>
+<Property2 MapID="0" CurrentValue="0" DefaultValue="0"/>
+</Property>
+<MaterialInfo Description="PolySi:LPCVD:SiH4">
+<Density Value="2.3">0</Density>
+<Elastic IsotropicYoung="160" IsotropicPoisson="0.226">0</Elastic>
+<Stress Constant="0">0</Stress>
+<ThermalExp Constant="20">0</ThermalExp>
+<ThermalCond Constant="1.5">0</ThermalCond>
+<SpecHeat Value="0.42">0</SpecHeat>
+<Dielectric Isotropic="1">0</Dielectric>
+<Resistivity Constant="1">0</Resistivity>
+<Pzr>0</Pzr>
+<Pzt>0</Pzt>
+<EMag Value="1 1 0 0 0">0</EMag>
+<Orient>0</Orient>
+<RayleighDamp RayeighMassDamp="0" RayeighMassStiff="0">0</RayleighDamp>
+<Seebeck Constant="0">0</Seebeck>
+</MaterialInfo>
+<ProcessCorner>
+<TypeMask MatUpLim="1300" MatLowLim="1300" MatAutoCalc="0" MatSigmaLim="0" StressMean="0" StressStDev="0" StressUpLim="0" StressLowLim="0" StressAutoCalc="0">33</TypeMask>
+</ProcessCorner>
+</ProcessStep4>
+</records3>
+<records4 children="0" Name="Deposition" Omit="0" Visualize="1" Expand="0">
+<ProcessStep5 ProcessStep="5" Operation="Deposition" Material="Al" Technology="Sputter" TechnologyID="Ar-Ambient" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="21" Description="" Visualize="1" Omit="0" MatInfo="1" MaterialColor="0xeaeaea" MatDB="MemDB\Al_Bulk_General.mat" ProcessOption="conform">
+<Parameter size="5">
+<Parameter0 MapID="9" CurrentValue="250" DefaultValue="250"/>
+<Parameter1 MapID="10" CurrentValue="13.56" DefaultValue="13.56"/>
+<Parameter2 MapID="7" CurrentValue=".1" DefaultValue=".1"/>
+<Parameter3 MapID="15" CurrentValue="10" DefaultValue="10"/>
+<Parameter4 MapID="5" CurrentValue="255" DefaultValue="255"/>
+</Parameter>
+<Property size="3">
+<Property0 MapID="1" CurrentValue="1000.000" DefaultValue="100"/>
+<Property1 MapID="2" CurrentValue="1" DefaultValue="1"/>
+<Property2 MapID="0" CurrentValue="0" DefaultValue="0"/>
+</Property>
+<MaterialInfo Description="Al:Sputter:Ar-Ambient">
+<Density Value="2.7">0</Density>
+<Elastic IsotropicYoung="70" IsotropicPoisson="0.36">0</Elastic>
+<Stress Constant="0">0</Stress>
+<ThermalExp Constant="250">0</ThermalExp>
+<ThermalCond Constant="2.36">0</ThermalCond>
+<SpecHeat Value="0.42">0</SpecHeat>
+<Dielectric Isotropic="1">0</Dielectric>
+<Resistivity Constant="4.8e-005">0</Resistivity>
+<Pzr>0</Pzr>
+<Pzt>0</Pzt>
+<EMag Value="1 1 0 0 0">0</EMag>
+<Orient>0</Orient>
+<RayleighDamp RayeighMassDamp="0" RayeighMassStiff="0">0</RayleighDamp>
+<Seebeck Constant="0">0</Seebeck>
+</MaterialInfo>
+<ProcessCorner>
+<TypeMask MatUpLim="100" MatLowLim="100" MatAutoCalc="0" MatSigmaLim="0" StressMean="0" StressStDev="0" StressUpLim="0" StressLowLim="0" StressAutoCalc="0">33</TypeMask>
+</ProcessCorner>
+</ProcessStep5>
+</records4>
+<records5 children="0" Name="Deposition" Omit="0" Visualize="1" Expand="0">
+<ProcessStep6 ProcessStep="6" Operation="Deposition" Material="PR-S1800" Technology="Spin" TechnologyID="S1805" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="21" Description="" Visualize="1" Omit="0" MatInfo="1" MaterialColor="0xda9212" MatDB="MemDB\not_available.mat" ProcessOption="conform">
+<Parameter size="6">
+<Parameter0 MapID="18" CurrentValue="4000" DefaultValue="4000"/>
+<Parameter1 MapID="19" CurrentValue="30" DefaultValue="30"/>
+<Parameter2 MapID="20" CurrentValue="115" DefaultValue="115"/>
+<Parameter3 MapID="21" CurrentValue="60" DefaultValue="60"/>
+<Parameter4 MapID="22" CurrentValue="436" DefaultValue="436"/>
+<Parameter5 MapID="5" CurrentValue="255" DefaultValue="255"/>
+</Parameter>
+<Property size="3">
+<Property0 MapID="1" CurrentValue="500.000" DefaultValue="3000"/>
+<Property1 MapID="2" CurrentValue="1" DefaultValue="1"/>
+<Property2 MapID="0" CurrentValue="0" DefaultValue="0"/>
+</Property>
+<MaterialInfo Description="PR-S1800:Spin:S1805">
+<Density Value="2.3">0</Density>
+<Elastic IsotropicYoung="106.8" IsotropicPoisson="0.278">0</Elastic>
+<Stress Constant="0">0</Stress>
+<ThermalExp Constant="29.0554">0</ThermalExp>
+<ThermalCond Constant="1.5">0</ThermalCond>
+<SpecHeat Value="0.42">0</SpecHeat>
+<Dielectric Isotropic="1">0</Dielectric>
+<Resistivity Constant="1">0</Resistivity>
+<Pzr>0</Pzr>
+<Pzt>0</Pzt>
+<EMag Value="1 1 0 0 0">0</EMag>
+<Orient>0</Orient>
+<RayleighDamp RayeighMassDamp="0" RayeighMassStiff="0">0</RayleighDamp>
+<Seebeck Constant="0">0</Seebeck>
+</MaterialInfo>
+<ProcessCorner>
+<TypeMask MatUpLim="0" MatLowLim="0" MatAutoCalc="0" MatSigmaLim="0" StressMean="0" StressStDev="0" StressUpLim="0" StressLowLim="0" StressAutoCalc="0">0</TypeMask>
+</ProcessCorner>
+</ProcessStep6>
+</records5>
+<records6 children="0" Name="Exposure" Omit="0" Visualize="1" Expand="0">
+<ProcessStep7 ProcessStep="7" Operation="Exposure" Material="UV" Technology="Contact" TechnologyID="Suss" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="24" Description="" Visualize="1" Omit="0" LeavePhotoresist="Inside">
+<Parameter size="4">
+<Parameter0 MapID="23" CurrentValue="2" DefaultValue="61"/>
+<Parameter1 MapID="24" CurrentValue="250" DefaultValue="250"/>
+<Parameter2 MapID="22" CurrentValue="436" DefaultValue="436"/>
+<Parameter3 MapID="25" CurrentValue="10" DefaultValue="10"/>
+</Parameter>
+<Property size="1">
+<Property0 MapID="4" CurrentValue="52" DefaultValue="52"/>
+</Property>
+<ProcessCorner>
+<TypeMask LithoFeatureSize="250" LithoLateraAlign="0" LithoAngularAlign="1" LithoAlignPrecision="0">8</TypeMask>
+</ProcessCorner>
+</ProcessStep7>
+</records6>
+<records7 children="0" Name="Etch" Omit="0" Visualize="1" Expand="0">
+<ProcessStep8 ProcessStep="8" Operation="Etch" Material="Al" Technology="Wet" TechnologyID="PAN" ProcessType="0" SideFlag="2" DoubleSideFlag="0" Tag="22" Description="" Visualize="1" Omit="0" ProcessOption="Partial_Etching" SelectivityMaterial="PR-S1800" SelectivityValue="5" SelectivityToOther="20">
+<Parameter size="4">
+<Parameter0 MapID="26" CurrentValue="75" DefaultValue="75"/>
+<Parameter1 MapID="27" CurrentValue="15" DefaultValue="15"/>
+<Parameter2 MapID="28" CurrentValue="5" DefaultValue="5"/>
+<Parameter3 MapID="29" CurrentValue="15" DefaultValue="15"/>
+</Parameter>
+<Property size="3">
+<Property0 MapID="5" CurrentValue="1000.000" DefaultValue="30"/>
+<Property1 MapID="6" CurrentValue="90" DefaultValue="90"/>
+<Property2 MapID="7" CurrentValue="0" DefaultValue="0"/>
+</Property>
+<ProcessCorner>
+<TypeMask EtchStDev="0" EtchUpLim="30" EtchLowLim="30" EtchAutoCalc="0" EtchSigmaLim="0" SidewallAngleMean="90" SidewallTolerance="1" SidewallAngleSkew="0.1">6</TypeMask>
+</ProcessCorner>
+</ProcessStep8>
+</records7>
+<records8 children="0" Name="Etch" Omit="0" Visualize="1" Expand="0">
+<ProcessStep9 ProcessStep="9" Operation="Etch" Material="PR-S1800" Technology="Wet" TechnologyID="1165" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="22" Description="" Visualize="1" Omit="0" ProcessOption="Sacrifice" SelectivityMaterial="Al" SelectivityValue="5" SelectivityToOther="20">
+<Parameter size="2">
+<Parameter0 MapID="30" CurrentValue="20" DefaultValue="20"/>
+<Parameter1 MapID="29" CurrentValue="5" DefaultValue="5"/>
+</Parameter>
+<Property size="2">
+<Property0 MapID="5" CurrentValue="500.000" DefaultValue="1000"/>
+<Property1 MapID="6" CurrentValue="90" DefaultValue="90"/>
+</Property>
+<ProcessCorner>
+<TypeMask EtchStDev="0" EtchUpLim="1000" EtchLowLim="1000" EtchAutoCalc="0" EtchSigmaLim="0" SidewallAngleMean="90" SidewallTolerance="1" SidewallAngleSkew="0.1">6</TypeMask>
+</ProcessCorner>
+</ProcessStep9>
+</records8>
+<records9 children="0" Name="Deposition" Omit="0" Visualize="1" Expand="0">
+<ProcessStep10 ProcessStep="10" Operation="Deposition" Material="PR-S1800" Technology="Spin" TechnologyID="S1805" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="21" Description="" Visualize="1" Omit="0" MatInfo="1" MaterialColor="0xda9212" MatDB="MemDB\not_available.mat" ProcessOption="conform">
+<Parameter size="6">
+<Parameter0 MapID="18" CurrentValue="4000" DefaultValue="4000"/>
+<Parameter1 MapID="19" CurrentValue="30" DefaultValue="30"/>
+<Parameter2 MapID="20" CurrentValue="115" DefaultValue="115"/>
+<Parameter3 MapID="21" CurrentValue="60" DefaultValue="60"/>
+<Parameter4 MapID="22" CurrentValue="436" DefaultValue="436"/>
+<Parameter5 MapID="5" CurrentValue="255" DefaultValue="255"/>
+</Parameter>
+<Property size="3">
+<Property0 MapID="1" CurrentValue="500.000" DefaultValue="3000"/>
+<Property1 MapID="2" CurrentValue="1" DefaultValue="1"/>
+<Property2 MapID="0" CurrentValue="0" DefaultValue="0"/>
+</Property>
+<MaterialInfo Description="PR-S1800:Spin:S1805">
+<Density Value="2.3">0</Density>
+<Elastic IsotropicYoung="106.8" IsotropicPoisson="0.278">0</Elastic>
+<Stress Constant="0">0</Stress>
+<ThermalExp Constant="29.0554">0</ThermalExp>
+<ThermalCond Constant="1.5">0</ThermalCond>
+<SpecHeat Value="0.42">0</SpecHeat>
+<Dielectric Isotropic="1">0</Dielectric>
+<Resistivity Constant="1">0</Resistivity>
+<Pzr>0</Pzr>
+<Pzt>0</Pzt>
+<EMag Value="1 1 0 0 0">0</EMag>
+<Orient>0</Orient>
+<RayleighDamp RayeighMassDamp="0" RayeighMassStiff="0">0</RayleighDamp>
+<Seebeck Constant="0">0</Seebeck>
+</MaterialInfo>
+<ProcessCorner>
+<TypeMask MatUpLim="0" MatLowLim="0" MatAutoCalc="0" MatSigmaLim="0" StressMean="0" StressStDev="0" StressUpLim="0" StressLowLim="0" StressAutoCalc="0">0</TypeMask>
+</ProcessCorner>
+</ProcessStep10>
+</records9>
+<records10 children="0" Name="Exposure" Omit="0" Visualize="1" Expand="0">
+<ProcessStep11 ProcessStep="11" Operation="Exposure" Material="UV" Technology="Contact" TechnologyID="Suss" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="24" Description="" Visualize="1" Omit="0" LeavePhotoresist="Inside">
+<Parameter size="4">
+<Parameter0 MapID="23" CurrentValue="1" DefaultValue="61"/>
+<Parameter1 MapID="24" CurrentValue="250" DefaultValue="250"/>
+<Parameter2 MapID="22" CurrentValue="436" DefaultValue="436"/>
+<Parameter3 MapID="25" CurrentValue="10" DefaultValue="10"/>
+</Parameter>
+<Property size="1">
+<Property0 MapID="4" CurrentValue="52" DefaultValue="52"/>
+</Property>
+<ProcessCorner>
+<TypeMask LithoFeatureSize="250" LithoLateraAlign="0" LithoAngularAlign="1" LithoAlignPrecision="0">8</TypeMask>
+</ProcessCorner>
+</ProcessStep11>
+</records10>
+<records11 children="0" Name="Etch" Omit="0" Visualize="1" Expand="0">
+<ProcessStep12 ProcessStep="12" Operation="Etch" Material="PolySi" Technology="RIE" TechnologyID="Cl2" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="22" Description="" Visualize="1" Omit="0" ProcessOption="Etch_Through" SelectivityMaterial="PR-S1800" SelectivityValue="5" SelectivityToOther="20">
+<Parameter size="2">
+<Parameter0 MapID="29" CurrentValue="0" DefaultValue="0"/>
+<Parameter1 MapID="38" CurrentValue="0.2" DefaultValue="0.2"/>
+</Parameter>
+<Property size="3">
+<Property0 MapID="5" CurrentValue="4000.000" DefaultValue="1000"/>
+<Property1 MapID="6" CurrentValue="90" DefaultValue="90"/>
+<Property2 MapID="7" CurrentValue="0" DefaultValue="0"/>
+</Property>
+<ProcessCorner>
+<TypeMask EtchStDev="0" EtchUpLim="1000" EtchLowLim="1000" EtchAutoCalc="0" EtchSigmaLim="0" SidewallAngleMean="90" SidewallTolerance="1" SidewallAngleSkew="0.1">6</TypeMask>
+</ProcessCorner>
+</ProcessStep12>
+</records11>
+<records12 children="0" Name="Etch" Omit="0" Visualize="1" Expand="0">
+<ProcessStep13 ProcessStep="13" Operation="Etch" Material="PR-S1800" Technology="Wet" TechnologyID="1165" ProcessType="0" SideFlag="0" DoubleSideFlag="0" Tag="22" Description="" Visualize="1" Omit="0" ProcessOption="Sacrifice" SelectivityMaterial="Al" SelectivityValue="5" SelectivityToOther="20">
+<Parameter size="2">
+<Parameter0 MapID="30" CurrentValue="20" DefaultValue="20"/>
+<Parameter1 MapID="29" CurrentValue="5" DefaultValue="5"/>
+</Parameter>
+<Property size="2">
+<Property0 MapID="5" CurrentValue="500.000" DefaultValue="1000"/>
+<Property1 MapID="6" CurrentValue="90" DefaultValue="90"/>
+</Property>
+<ProcessCorner>
+<TypeMask EtchStDev="0" EtchUpLim="1000" EtchLowLim="1000" EtchAutoCalc="0" EtchSigmaLim="0" SidewallAngleMean="90" SidewallTolerance="1" SidewallAngleSkew="0.1">6</TypeMask>
+</ProcessCorner>
+</ProcessStep13>
+</records12>
+<records13 children="0" Name="Etch" Omit="0" Visualize="1" Expand="0">
+<ProcessStep14 ProcessStep="14" Operation="Etch" Material="Si3N4" Technology="Wet" TechnologyID="H3PO4" ProcessType="0" SideFlag="2" DoubleSideFlag="0" Tag="22" Description="" Visualize="1" Omit="0" ProcessOption="Sacrifice" SelectivityMaterial="PR-S1800" SelectivityValue="5" SelectivityToOther="20">
+<Parameter size="2">
+<Parameter0 MapID="26" CurrentValue="70" DefaultValue="70"/>
+<Parameter1 MapID="29" CurrentValue="10" DefaultValue="10"/>
+</Parameter>
+<Property size="1">
+<Property0 MapID="5" CurrentValue="1000" DefaultValue="1000"/>
+</Property>
+<ProcessCorner>
+<TypeMask EtchStDev="0" EtchUpLim="1000" EtchLowLim="1000" EtchAutoCalc="0" EtchSigmaLim="0" SidewallAngleMean="90" SidewallTolerance="1" SidewallAngleSkew="0.1">6</TypeMask>
+</ProcessCorner>
+</ProcessStep14>
+</records13>
+<records14 children="0" Name="Etch" Omit="0" Visualize="1" Expand="0">
+<ProcessStep15 ProcessStep="15" Operation="Etch" Material="SiO2" Technology="RIE" TechnologyID="CHF3_CF4" ProcessType="0" SideFlag="2" DoubleSideFlag="0" Tag="22" Description="" Visualize="1" Omit="0" ProcessOption="Sacrifice" SelectivityMaterial="PR-S1800" SelectivityValue="5" SelectivityToOther="20">
+<Parameter size="8">
+<Parameter0 MapID="9" CurrentValue="850" DefaultValue="850"/>
+<Parameter1 MapID="32" CurrentValue="0.4" DefaultValue="0.4"/>
+<Parameter2 MapID="33" CurrentValue="30" DefaultValue="30"/>
+<Parameter3 MapID="34" CurrentValue="90" DefaultValue="90"/>
+<Parameter4 MapID="35" CurrentValue="120" DefaultValue="120"/>
+<Parameter5 MapID="36" CurrentValue="3e+009" DefaultValue="3e+009"/>
+<Parameter6 MapID="37" CurrentValue="0.5" DefaultValue="0.5"/>
+<Parameter7 MapID="38" CurrentValue="0.2" DefaultValue="0.2"/>
+</Parameter>
+<Property size="3">
+<Property0 MapID="5" CurrentValue="685.000" DefaultValue="1000"/>
+<Property1 MapID="6" CurrentValue="90" DefaultValue="90"/>
+<Property2 MapID="7" CurrentValue="0" DefaultValue="0"/>
+</Property>
+<ProcessCorner>
+<TypeMask EtchStDev="0" EtchUpLim="1000" EtchLowLim="1000" EtchAutoCalc="0" EtchSigmaLim="0" SidewallAngleMean="90" SidewallTolerance="1" SidewallAngleSkew="0.1">6</TypeMask>
+</ProcessCorner>
+</ProcessStep15>
+</records14>
+</ProcessInfo>
+<Layout DieCenterX="-426.792" DieCenterY="412.15" DieSizeX="8345.73" DieSizeY="8433.58">perfect_comb_array_104932740.vec</Layout>
+</FileVersion>
